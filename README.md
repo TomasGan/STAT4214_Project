@@ -17,7 +17,13 @@ This project analyzes U.S. housing data to understand the relationship between e
 - Identify key factors influencing housing prices  
 - Evaluate model assumptions and performance  
 - Compare different modeling approaches  
-- Capture year-based variability using mixed-effects models  
+- Capture year-based variability using mixed-effects models
+
+## Conclusions
+- Generally, positive economic indicators are positively correlated with an increase in the HPI
+- Factors that increased the amount of houses being built had a positive relationship on the HPI, but the amount of houses available had an inverse relationship
+- If a policy maker were looking to tackle housing prices as they are, they should enact policy that would increase the amount of houses available on the market.
+    - Policies that improve economic well being, while good for the people, actually tend to lead to an increase in the HPI
 
 ## Dataset
 
