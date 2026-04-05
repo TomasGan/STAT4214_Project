@@ -20,8 +20,11 @@ This project analyzes U.S. housing data to understand the relationship between e
 - Capture year-based variability using mixed-effects models
 
 ## Conclusions
-- Generally, positive economic indicators are positively correlated with an increase in the HPI
-- Factors that increased the amount of houses being built had a positive relationship on the HPI, but the amount of houses available had an inverse relationship
+- This project examined how economic conditions, construction activity, and housing supply relate to U.S. housing prices. The results showed that stronger economic indicators were generally associated with higher housing prices, while greater housing availability was associated with lower prices.
+
+- A mixed-effects model was selected as the final model to account for the time-dependent structure of the data. This provided a more reliable way to study the relationship between housing prices and key predictors over time.
+
+- Overall, the analysis suggests that housing prices are driven by multiple interconnected factors, and that increasing housing supply may be one of the most direct ways to reduce upward pressure on prices.
 - If a policy maker were looking to tackle housing prices as they are, they should enact policy that would increase the amount of houses available on the market.
     - Policies that improve economic well being, while good for the people, actually tend to lead to an increase in the HPI
 
